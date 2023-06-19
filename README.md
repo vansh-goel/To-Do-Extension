@@ -14,6 +14,7 @@ Once you get there you'll see "Developer mode" in the top right. Make sure to to
 
 3. Tap on load unpacked and select the folder you just downloaded after extracting
 4. Once you're done with that you should see something like this,
+
 ![image](https://github.com/vansh-goel/To-Do-Extension/assets/62180044/8b339d0e-c678-4e7b-b81b-59e4c21dd4f4)
 
 Voila, You're done, thanks for checking the project out!
